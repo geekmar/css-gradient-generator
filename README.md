@@ -2,7 +2,8 @@
 
 A powerful and intuitive tool for creating beautiful CSS gradients with a live preview.
 
-![CSS Gradient Generator](https://via.placeholder.com/800x400?text=CSS+Gradient+Generator)
+<img width="1279" height="771" alt="Clipboard_Screenshot_1753593313" src="https://github.com/user-attachments/assets/b02bd3ad-f75b-48bd-a8ef-1f04f7543184" />
+
 
 ## Features
 
